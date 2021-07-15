@@ -1,5 +1,8 @@
 # tableau-challenge
 
+See vizualization story on Tableau Public at: https://public.tableau.com/app/profile/andre.shearer/viz/HW_20_Tableau/CitiReport
+
+
 Service level for bikes: Should be serviced every 45 days. Source: Feb 2021 monthly report at https://d21xlh2maitm24.cloudfront.net/nyc/February-2021-Citi-Bike-Monthly-Report.pdf
 
 Definition – Peak Hours: based on trip start time
